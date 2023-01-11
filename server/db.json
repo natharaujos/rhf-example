@@ -1,0 +1,28 @@
+{
+  "livros": [
+    {
+      "isbn": "123456789987987",
+      "titulo": "Senhor das",
+      "autor": "Jk. Rowling",
+      "descricao": "Livro",
+      "dataDePublicacao": "23/12/2022",
+      "qtdExemplares": "2",
+      "id": 1
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "Nathan",
+      "endereco": "Rua Firmino Sa",
+      "telefone": "9999999999999",
+      "id": 1
+    }
+  ],
+  "emprestimos": [
+    {
+      "nomeCliente": "Nathan",
+      "livroEmprestado": "Senhor das",
+      "id": 1
+    }
+  ]
+}
