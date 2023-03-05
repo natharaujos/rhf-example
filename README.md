@@ -73,8 +73,3 @@
       campos e exibição de mensagens de erro.
     </li>
   </ol>
-  <h2>Contribuindo</h2>
-  <p>
-    Se você quiser contribuir com este projeto, sinta-se à vontade para abrir
-    uma nova issue ou enviar um pull request. Toda contribuição é bem-vinda!
-  </p>
